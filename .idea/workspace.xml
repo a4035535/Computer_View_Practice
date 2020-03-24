@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f26d1a9a-4f6d-4a55-8391-6eaa9962b3b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/project2/Figure_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project2/Figure_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project2/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project2/pictures/lena.jpg" afterDir="false" />
+    <list default="true" id="f26d1a9a-4f6d-4a55-8391-6eaa9962b3b3" name="Default Changelist" comment="project2 complete">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figure_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QQ截图20200303142902.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junheng.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/montain.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,40 +132,55 @@
       <option name="project" value="LOCAL" />
       <updated>1585042982106</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first commit">
+      <created>1585046673664</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585046673664</updated>
+    </task>
+    <task id="LOCAL-00004" summary="project2 complete">
+      <created>1585046842366</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585046842366</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="project2 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="project2 complete" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="715" y="113" key="CommitChangelistDialog2" timestamp="1585046672436">
+    <state x="715" y="113" key="CommitChangelistDialog2" timestamp="1585046871435">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="715" y="113" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1585046672436" />
-    <state width="1066" height="137" key="GridCell.Tab.0.bottom" timestamp="1585046597735">
+    <state x="715" y="113" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1585046871435" />
+    <state width="1066" height="137" key="GridCell.Tab.0.bottom" timestamp="1585048206981">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1066" height="137" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1585046597735" />
-    <state width="1066" height="137" key="GridCell.Tab.0.center" timestamp="1585046597735">
+    <state width="1066" height="137" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1585048206981" />
+    <state width="1066" height="137" key="GridCell.Tab.0.center" timestamp="1585048206981">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1066" height="137" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1585046597735" />
-    <state width="1066" height="137" key="GridCell.Tab.0.left" timestamp="1585046597735">
+    <state width="1066" height="137" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1585048206981" />
+    <state width="1066" height="137" key="GridCell.Tab.0.left" timestamp="1585048206981">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1066" height="137" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1585046597735" />
-    <state width="1066" height="137" key="GridCell.Tab.0.right" timestamp="1585046597735">
+    <state width="1066" height="137" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1585048206981" />
+    <state width="1066" height="137" key="GridCell.Tab.0.right" timestamp="1585048206981">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1066" height="137" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1585046597735" />
-    <state x="903" y="377" key="com.intellij.ide.util.TipDialog" timestamp="1583611998469">
+    <state width="1066" height="137" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1585048206981" />
+    <state x="903" y="377" key="com.intellij.ide.util.TipDialog" timestamp="1585077524354">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="903" y="377" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1583611998469" />
+    <state x="903" y="377" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1585077524354" />
     <state x="969" y="405" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585046726832">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
