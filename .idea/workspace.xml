@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f26d1a9a-4f6d-4a55-8391-6eaa9962b3b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/project2/Figure_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project2/Figure_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project2/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project2/pictures/lena.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,10 +47,33 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Workplace\Computer_View\project2\picture" />
+      <recent name="E:\Workplace\Computer_View\project2" />
       <recent name="E:\Workplace\Computer_View\pictures" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.base (1)">
+    <configuration name="base (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Computer_View" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project2/base.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="base" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Computer_View" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,6 +97,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.base (1)" />
         <item itemvalue="Python.base" />
       </list>
     </recent_temporary>
@@ -109,26 +137,26 @@
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="715" y="113" key="CommitChangelistDialog2" timestamp="1585042980884">
+    <state x="715" y="113" key="CommitChangelistDialog2" timestamp="1585046668972">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="715" y="113" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1585042980884" />
-    <state width="1173" height="248" key="GridCell.Tab.0.bottom" timestamp="1583217968059">
+    <state x="715" y="113" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1585046668972" />
+    <state width="1066" height="137" key="GridCell.Tab.0.bottom" timestamp="1585046597735">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1173" height="248" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1583217968059" />
-    <state width="1173" height="248" key="GridCell.Tab.0.center" timestamp="1583217968059">
+    <state width="1066" height="137" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1585046597735" />
+    <state width="1066" height="137" key="GridCell.Tab.0.center" timestamp="1585046597735">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1173" height="248" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1583217968059" />
-    <state width="1173" height="248" key="GridCell.Tab.0.left" timestamp="1583217968059">
+    <state width="1066" height="137" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1585046597735" />
+    <state width="1066" height="137" key="GridCell.Tab.0.left" timestamp="1585046597735">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1173" height="248" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1583217968059" />
-    <state width="1173" height="248" key="GridCell.Tab.0.right" timestamp="1583217968059">
+    <state width="1066" height="137" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1585046597735" />
+    <state width="1066" height="137" key="GridCell.Tab.0.right" timestamp="1585046597735">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1173" height="248" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1583217968059" />
+    <state width="1066" height="137" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1585046597735" />
     <state x="903" y="377" key="com.intellij.ide.util.TipDialog" timestamp="1583611998469">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
