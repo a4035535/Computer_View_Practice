@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f26d1a9a-4f6d-4a55-8391-6eaa9962b3b3" name="Default Changelist" comment="project2 complete">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project3/111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project3/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project3/pictures/image.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project3/pictures/实验要求.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Figure_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QQ截图20200303142902.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/deal.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/junheng.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/montain.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Cloud/LU_of_Matrix/out/production/LU_of_Matrix/LU.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_Cloud/LU_of_Matrix/out/production/LU_of_Matrix/LU.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Cloud/LU_of_Matrix/out/production/LU_of_Matrix/LU_of_Matrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_Cloud/LU_of_Matrix/out/production/LU_of_Matrix/LU_of_Matrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Cloud/LU_of_Matrix/out/production/LU_of_Matrix/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_Cloud/LU_of_Matrix/out/production/LU_of_Matrix/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Cloud/LU_of_Matrix/src/LU.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_Cloud/LU_of_Matrix/src/LU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Cloud/LU_of_Matrix/src/LU_of_Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_Cloud/LU_of_Matrix/src/LU_of_Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Cloud/LU_of_Matrix/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_Cloud/LU_of_Matrix/src/Maintest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ML/kng/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../ML/kng/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Py Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Py Project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Py Project/Machine-learning/First program/test001.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Py Project/Machine-learning/First program/test001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VSC workplace/helloworld/test1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../VSC workplace/helloworld/test1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project1.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +64,7 @@
       <recent name="E:\Workplace\Computer_View\pictures" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.base (1)">
+  <component name="RunManager" selected="Python.base (2)">
     <configuration name="base (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Computer_View" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -71,6 +78,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project2/base.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="base (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Computer_View" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project3/base.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,6 +130,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.base (2)" />
         <item itemvalue="Python.base (1)" />
         <item itemvalue="Python.base" />
       </list>
@@ -146,8 +175,51 @@
       <option name="project" value="LOCAL" />
       <updated>1585046842366</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="project2 complete">
+      <created>1585077754239</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585077754239</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -157,33 +229,33 @@
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="715" y="113" key="CommitChangelistDialog2" timestamp="1585046871435">
+    <state x="715" y="113" key="CommitChangelistDialog2" timestamp="1586175401968">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="715" y="113" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1585046871435" />
-    <state width="1066" height="137" key="GridCell.Tab.0.bottom" timestamp="1585048206981">
+    <state x="715" y="113" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1586175401968" />
+    <state width="1328" height="143" key="GridCell.Tab.0.bottom" timestamp="1588565967757">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1066" height="137" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1585048206981" />
-    <state width="1066" height="137" key="GridCell.Tab.0.center" timestamp="1585048206981">
+    <state width="1328" height="143" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1588565967757" />
+    <state width="1328" height="143" key="GridCell.Tab.0.center" timestamp="1588565967757">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1066" height="137" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1585048206981" />
-    <state width="1066" height="137" key="GridCell.Tab.0.left" timestamp="1585048206981">
+    <state width="1328" height="143" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1588565967757" />
+    <state width="1328" height="143" key="GridCell.Tab.0.left" timestamp="1588565967757">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1066" height="137" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1585048206981" />
-    <state width="1066" height="137" key="GridCell.Tab.0.right" timestamp="1585048206981">
+    <state width="1328" height="143" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1588565967757" />
+    <state width="1328" height="143" key="GridCell.Tab.0.right" timestamp="1588565967757">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1066" height="137" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1585048206981" />
-    <state x="903" y="377" key="com.intellij.ide.util.TipDialog" timestamp="1585077524354">
+    <state width="1328" height="143" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1588565967757" />
+    <state x="903" y="377" key="com.intellij.ide.util.TipDialog" timestamp="1586429838436">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="903" y="377" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1585077524354" />
-    <state x="969" y="405" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585046726832">
+    <state x="903" y="377" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1586429838436" />
+    <state x="969" y="405" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588566204328">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="969" y="405" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1585046726832" />
+    <state x="969" y="405" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1588566204328" />
   </component>
 </project>
